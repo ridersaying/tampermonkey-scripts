@@ -2,7 +2,7 @@
 // @name        tsdm 广告去除
 // @homepage
 // @icon
-// @version     1.0
+// @version     0.1
 // @description 自动删除 tsdm 页面上的广告
 // @author      ridersaying
 // @license     MIT
